@@ -170,7 +170,7 @@ public void Get_text_element() {
 
 ## Author
 
-**Bodda Sami**
+**Muhammed Jabed Iqbal Sami**
 Computer Science and Engineering student, East West University
 
 ## Acknowledgement
